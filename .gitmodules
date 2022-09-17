@@ -1,0 +1,15 @@
+[submodule "site-lisp/meow"]
+	path = site-lisp/meow
+	url = https://github.com/meow-edit/meow
+[submodule "site-lisp/lsp-bridge"]
+	path = site-lisp/lsp-bridge
+	url = https://github.com/manateelazycat/lsp-bridge
+[submodule "site-lisp/color-rg"]
+	path = site-lisp/color-rg
+	url = https://github.com/manateelazycat/color-rg.git
+[submodule "site-lisp/blink-search"]
+	path = site-lisp/blink-search
+	url = https://github.com/manateelazycat/blink-search.git
+[submodule "site-lisp/sort-tab"]
+	path = site-lisp/sort-tab
+	url = https://github.com/manateelazycat/sort-tab.git
