@@ -13,6 +13,7 @@
 ;;; load first
 (require 'core)
 
+(require 'init-ui)
 (require 'init-modal)
 (require 'init-completion)
 (require 'init-cc)
@@ -20,3 +21,4 @@
 (require 'init-lsp-bridge)
 (require 'init-color-rg)
 (require 'init-blink-search)
+(require 'init-undo)
